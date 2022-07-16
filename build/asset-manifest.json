@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d629f52a.css",
+    "main.js": "/static/js/main.d3fda7a0.js",
+    "static/js/654.ce39df8d.chunk.js": "/static/js/654.ce39df8d.chunk.js",
+    "static/js/313.a4c7012a.chunk.js": "/static/js/313.a4c7012a.chunk.js",
+    "static/js/867.c9cb33c9.chunk.js": "/static/js/867.c9cb33c9.chunk.js",
+    "static/js/27.abd2a82d.chunk.js": "/static/js/27.abd2a82d.chunk.js",
+    "static/media/bicycle.jpg": "/static/media/bicycle.39d3672b68578d175c96.jpg",
+    "static/media/parts.jpg": "/static/media/parts.fa2a5fc09d960450110a.jpg",
+    "static/media/logo.png": "/static/media/logo.1fb7609be1b5308ce832.png",
+    "static/media/profile.png": "/static/media/profile.e14b647e2435ae59dc91.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d629f52a.css",
+    "static/js/main.d3fda7a0.js"
+  ]
+}
